@@ -1,5 +1,5 @@
 var texts = {
-    appTitle: [ `Open Card Sorter` ],
+    appTitle: [ `Pesquisa Jusbrasil` ],
     introTitle: [ `Olá, vamos começar%userNameComma?` ],
     introText: [
         `Nesta atividade de card sorting, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
