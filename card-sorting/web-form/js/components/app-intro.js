@@ -25,7 +25,7 @@ Vue.component('app-intro', {
     template: `
         <main class="intro">
             <h1 id="logoImage">
-                <a href="/"><img src="//static1.squarespace.com/static/58e703f9ff7c5020c2e1f262/t/58ea7886f5e231a18a974b27/1596054647182/?format=1500w" alt="Jusbrasil" width="140" height="23">
+                <a href="/"><img src="//static1.squarespace.com/static/58e703f9ff7c5020c2e1f262/t/58ea7886f5e231a18a974b27/1596054647182/?format=1500w" alt="Jusbrasil" width="140" height="23" style="margin-bottom: 40px;">
                 </a>
             </h1>
                 <header class="intro__header">
