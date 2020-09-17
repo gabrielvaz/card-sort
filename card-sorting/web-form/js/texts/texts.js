@@ -2,7 +2,7 @@ var texts = {
     appTitle: [ `Pesquisa Jusbrasil` ],
     introTitle: [ `Olá, vamos começar%userNameComma?` ],
     introText: [
-        `Obrigado por aceitar nossos convite. Nesta atividade, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
+        `Obrigado por aceitar nosso convite. Nesta atividade, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
         `Ela dura entre <b>10 a 15 minutinhos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
     ],
     introPreAuth: [
@@ -62,7 +62,7 @@ var texts = {
 
     endingTitle: [ `Obrigado%userNameComma!` ],
     endingText: [
-        `Sua atividade vai ajudar bastante na construção de uma experiência digital incrível.`,
+        `Sua resposta vai ajudar bastante na construção de uma experiência digital incrível.`,
         `Muito obrigado pela participação!`,
     ],
 
