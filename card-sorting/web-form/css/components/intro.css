@@ -22,10 +22,10 @@
     font-family: "Inter";
     font-style: normal;
     font-weight: bold;
-    font-size: 64px;
+    font-size: 48px;
     color: var(--color-accent);
     margin-top: 0;
-    margin-bottom: calc(var(--spacing)*8);
+    margin-bottom: calc(var(--spacing)*2);
 }
 .intro__header p {
     font-family: Inter;
