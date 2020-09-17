@@ -2,8 +2,8 @@ var texts = {
     appTitle: [ `Pesquisa Jusbrasil` ],
     introTitle: [ `Olá, vamos começar%userNameComma?` ],
     introText: [
-        `Nesta atividade de card sorting, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
-        `Ela dura em torno de <b>10 a 15 minutinhos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
+        `Obrigado por aceitar nossos convite. Nesta atividade, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
+        `Ela dura entre <b>10 a 15 minutinhos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
     ],
     introPreAuth: [
         `Para começar, como posso te chamar?`,
@@ -26,16 +26,16 @@ var texts = {
         {
             title: [`Passo 1`],
             text: [
-                `Dá uma olhada nos cartões ao lado, %userName.`,
-                `Sua tarefa será organizar esses cards em grupos de similaridade que façam sentido para você.`,
+                `Dê uma olhada nos cartões ao lado, %userName.`,
+                `Sua tarefa será organizar esses cartões em grupos de similaridade que façam sentido para você.`,
                 `Arraste um dos cards para a direita para criar seu primeiro grupo.`
             ]
         },
         {
             title: [`Passo 2`],
             text: [
-                `Mova os cartões ao lado até que todos estejam agrupados. Agrupe cartões que você considera relacionados. Você pode criar quantos grupos quiser, inclusive grupos com apenas 1 cartão!`,
-                `Lembre-se, %userName: não tem certo ou errado, você escolhe como agrupar os cartões de acordo com o que fizer mais sentido para você!`
+                `Mova os cartões ao lado até que todos estejam agrupados. Agrupe cartões que você considera relacionados. Evite criar muitos grupos (tente se limitar ao máximo de 5 grupos!`,
+                `Lembre-se, %userName: não existe certo ou errado, você escolhe como agrupar os cartões de acordo com o que fizer mais sentido para você!`
             ]
         },
         {
