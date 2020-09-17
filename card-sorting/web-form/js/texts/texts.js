@@ -34,7 +34,7 @@ var texts = {
         {
             title: [`Passo 2`],
             text: [
-                `Mova os cartões ao lado até que todos estejam agrupados. Agrupe cartões que você considera relacionados. Evite criar muitos grupos (tente se limitar ao máximo de 5 grupos!`,
+                `Arraste os cartões ao lado até que todos estejam agrupados. Agrupe cartões que você considera relacionados. Evite criar muitos grupos (tente se limitar ao máximo de 5 grupos!`,
                 `Lembre-se, %userName: não existe certo ou errado, você escolhe como agrupar os cartões de acordo com o que fizer mais sentido para você!`
             ]
         },
