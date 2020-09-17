@@ -24,6 +24,7 @@ Vue.component('app-intro', {
     },
     template: `
         <main class="intro">
+            <img src="//static1.squarespace.com/static/58e703f9ff7c5020c2e1f262/t/58ea7886f5e231a18a974b27/1596054647182/?format=1500w" alt="Jusbrasil">
             <header class="intro__header">
                 <h1 v-for="t in texts.introTitle" v-html="userNameText(t)"></h1>
                 <p v-for="t in texts.introText" v-html="t"></p>
