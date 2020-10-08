@@ -3,7 +3,7 @@ var texts = {
     introTitle: [ `Olá, vamos começar%userNameComma?` ],
     introText: [
         `Obrigado por aceitar nosso convite. Nesta atividade, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
-        `Ela dura entre <b>10 a 15 minutinhos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
+        `Ela dura entre <b>5 minutinhos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
     ],
     introPreAuth: [
         `Para começar, como posso te chamar?`,
